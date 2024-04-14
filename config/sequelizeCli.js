@@ -6,4 +6,5 @@ module.exports = {
         database: 'kolex_development',
         username: 'kolex',
         password: 'kolex'
+    },
 }
